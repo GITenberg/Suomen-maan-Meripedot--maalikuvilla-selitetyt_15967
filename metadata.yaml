@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6397
     wikipedia: http://fi.wikipedia.org/wiki/Gustaf_Erik_Eur%C3%A9n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15967#Suomen-maan-Meripedot--maalikuvilla-selitetyt
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
 identifiers:
